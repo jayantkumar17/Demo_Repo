@@ -1,0 +1,13 @@
+﻿{
+  "Id": "uBBntJno0UiO2kb8E5vt_A",
+  "Reference": "p6RjVpadi0ms-yYwvXTnSg/uBBntJno0UiO2kb8E5vt_A",
+  "ParentRef": "p6RjVpadi0ms-yYwvXTnSg/bt6HL4qnC0qfSARa-BT-jA",
+  "Name": "Google Chrome",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-04-21T06:57:06.5481926Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-21T06:57:06.5481926Z"
+}

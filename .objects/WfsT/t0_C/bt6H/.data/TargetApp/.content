@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" ContentHash="-ZPBo4mv8kqa7Hv4e1gSjA" FilePath="C:\Windows\explorer.exe" Selector="&lt;wnd app='explorer.exe' cls='Progman' title='Program Manager' /&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">06-Pm0plMzkONjxIjD3DG1w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="4eeb53474d9ba01ee0f6c45104a4065f.png" xmlns="">0Y_Qv0gk9bUGDHksgfkCwRQ</imageRef>
+</TargetApp>

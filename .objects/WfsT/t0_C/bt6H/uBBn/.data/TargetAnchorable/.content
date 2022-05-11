@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="-Hr3MZcdMk6sUhCI7MQvZg" DesignTimeRectangle="0, 491, 112, 129" FriendlyName="'Google Chrome'" FullSelectorArgument="&lt;wnd cls='SysListView32' title='FolderView' /&gt;&lt;ctrl name='Desktop' role='list' /&gt;&lt;ctrl name='Google Chrome' role='list item' /&gt;" FuzzySelectorArgument="&lt;wnd cls='SysListView32' title='FolderView' /&gt;&lt;ctrl name='Desktop' role='list' /&gt;&lt;ctrl name='Google Chrome' role='list item' automationid='' check:text='Google Chrome' /&gt;" Guid="afc3fc0d-3436-4be1-a824-1d8351e0ecc4" ScopeSelectorArgument="&lt;wnd app='explorer.exe' cls='Progman' title='Program Manager' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0QBTdcv-WG0a1VjD356VY0Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="d4c51d9ea0da02dd529c3a5538a5e90d.png" xmlns="">0bRI_JgeudU2_I4LkfPfWSQ</imageRef>
+</TargetAnchorable>
